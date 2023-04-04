@@ -1,5 +1,5 @@
 # likelion_2nd_HW
-첫번째 과제 깃협업 찍먹하기
+첫번째 과제 깃협업 찍먹하기!!
 
 [*] 간단정리
 -중앙원격(remote)저장소: (=upstream,최종merge)
